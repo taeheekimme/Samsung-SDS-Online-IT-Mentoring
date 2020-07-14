@@ -1,1 +1,1 @@
-# samsung-sds-it-online-mentoring
+# Samsung SDS Online IT Mentoring
