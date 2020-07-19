@@ -10,5 +10,6 @@ DROP DATABASE 스키마 이름;<br><br>
 SHOW DATABASES;<br><br>
 
 ### 스키마 실행
-USE 스키마 이름;<br><br>
+USE 스키마 이름;<br><br>ㅇ
+default 스키마로 설정됨
 
