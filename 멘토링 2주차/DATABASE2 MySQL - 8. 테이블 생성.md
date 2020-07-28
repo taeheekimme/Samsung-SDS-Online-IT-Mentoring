@@ -15,9 +15,9 @@ CREATE TABLE topic(   <BR>
   profile VARCHAR(100) NULL, <BR> 
 	);             <BR>  <BR> 
 
+### id 칼럼 만들기
 
-
-### INT(11)
+**INT(11)**
 INT : 정수  <BR> 
 BIGINT : 큰 정수 -> 저장공간 많이 차지 <BR> 
 데이터베이스는 컬럼의 데이터 타입을 정할 수 있음 <BR>
@@ -26,18 +26,18 @@ BIGINT : 큰 정수 -> 저장공간 많이 차지 <BR>
 보통 11사용
 
 
-### NOT NULL
+**NOT NULL**
 본문은 없어도 되지만, 제목은 삽입과 삭제를 위해 필수임
 
 
-### AUTO_INCREMENT
+**AUTO_INCREMENT**
 같은 이름의 행이 있을 경우 동시에 삭제될 가능성이 있음 <BR>
 따라서 번호를 매겨 중복된 데이터를 구분할 수 있어야 함 <BR>
 중복되지 않는 식별자를 갖게 함 <BR>
 ID칼럼은 자동으로 1씩 증가하게끔 함
 
 
-###  PRIMARY KEY(id)
+**PRIMARY KEY(id)**
 topic 테이블의 id칼럼은 행을 식별해야 하므로 중복 방지
 
 
