@@ -1,16 +1,16 @@
 ## Samsung SDS Online IT Mentoring
 
 ### 기간
-2020.07.06 ~ 2020.08.31 매주 수요일 20:00 ~ 22:00
+- 2020.07.06 ~ 2020.08.31 매주 수요일 20:00 ~ 22:00
 
 ### 활동 내용
-생활코딩 DATABASE1 + DATABASE2를 기반으로 DB에 대한 기본적인 이해<br>
-MySQL 워크벤치를 사용하여 SQL구문 학습<br>
-개인적인 학습 관련 질문(머신러신, 깃, 캐글 등)
+- 생활코딩 DATABASE1 + DATABASE2를 기반으로 DB에 대한 기본적인 이해<br>
+- MySQL 워크벤치를 사용하여 SQL구문 학습<br>
+- 개인적인 학습 관련 질문(머신러신, 깃, 캐글 등)
 
 
 ### 수업 방식 
-Zoom, Nexoffice Messenger, Google Meet 등의 화상 회의 툴을 사용한 1:1 비대면 수업 
+- Zoom, Nexoffice Messenger, Google Meet 등의 화상 회의 툴을 사용한 1:1 비대면 수업 
 
 
 
