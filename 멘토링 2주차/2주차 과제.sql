@@ -6,7 +6,8 @@
 -- birthday : 날짜형, NULL 허용
 
 CREATE DATABASE mystudy;
-USE mystudy;
+USE mystudy;  
+-- default 스키마 사용한다는 뜻
 
 CREATE TABLE student(
 student_id INT(8) NOT NULL AUTO_INCREMENT,
