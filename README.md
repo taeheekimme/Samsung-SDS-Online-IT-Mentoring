@@ -13,8 +13,8 @@
 
 #### 수업 내용 
  - 생활코딩 DATABASE1와 DATABASE2 MYSQL을 기반으로 한 DB 기본적인 이해<br>
- - MySQL Workbench를 사용한 SQL구문 학습<br>
- - 개인적인 학습 관련 피드백(머신러신, 깃, 캐글 등)<br><br><br>
+ - MySQL Workbench에서 과제 수행을 통한 SQL쿼리 역량 강화<br>
+ - 개인적인 학습 관련 피드백(머신러닝, 깃, 캐글 등)<br><br><br>
 
 
 
