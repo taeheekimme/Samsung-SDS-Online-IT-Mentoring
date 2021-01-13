@@ -19,31 +19,31 @@
 
 ### 커리큘럼
 #### 1주차
-- DB정의, RDB, NoSQL, MySQL
-- 생활코딩 강의 DATABASE1 4회차 학습
+DB정의, RDB, NoSQL, MySQL<br>
+생활코딩 강의 DATABASE1 4회차 학습
 #### 2주차
-- MySQL설치, Schema, Table생성, NoSQL
-- 생활코딩 강의 DATABSE2 MySQL 1~8회차 학습
+MySQL설치, Schema, Table생성, NoSQL<br>
+생활코딩 강의 DATABSE2 MySQL 1~8회차 학습
 
 #### 3주차
-- CRUD, 내장 함수, Git과 블로그
-- 생활코딩 강의 DATABSE2 MySQL 9~14회차 학습
+CRUD, 내장 함수, Git과 블로그<br>
+생활코딩 강의 DATABSE2 MySQL 9~14회차 학습
 
 #### 4주차
-- DB논리 및 물리 모델링, Join(Inner, Outer)
-- 생활코딩 강의 DATABSE2 MySQL 15~21회차 학습
+DB논리 및 물리 모델링, Join(Inner, Outer)<br>
+생활코딩 강의 DATABSE2 MySQL 15~21회차 학습
 
 #### 5주차
-- 머신러닝 캐글 관련 질문 및 답변 
+머신러닝 캐글 관련 질문 및 답변 
 
 
 #### 6주차
-- 문자열 함수, 숫자 함수, 날짜 함수
+문자열 함수, 숫자 함수, 날짜 함수
 
 
 #### 7주차
-- group_concat, Window 함수, 사용자 정의 변수
+group_concat, Window 함수, 사용자 정의 변수
 
 
 #### 8주차
-- 멘토링 종료 및 활동 피드백
+멘토링 종료 및 활동 피드백
