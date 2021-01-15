@@ -113,7 +113,7 @@ SELECT topic.id AS topic_id, title, description, created, name, profile FROM top
    - mysqldump
    - binary log
 
-#### CLOUD
+### CLOUD
 - 데이터베이스 서버를 쓰는 것이 아닌 큰 회사들이 운영하는 인프라를 임대해 사용하는 것
 - 회사들의 데이터 센터를 원격제어를 통해 사용하는 것
 - 필요할 때 바로 사용할 수 있고, 엔지니어들이 보안을 위해 노력함
